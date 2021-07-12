@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
 
         //test
         //test2
+            //ne puskayt
     }
 }
